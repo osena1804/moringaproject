@@ -21,6 +21,14 @@ This project was developed as a Capstone to demonstrate the power of Generative 
 
 Using a custom-built dataset (moringa_toolkit.csv), this repository guides users through the core pillars of the Pandas library: data wrangling, feature engineering, and visual storytelling.
 
+why chose these tools
+
+Feature	       Pandas (What we used)	   Excel (The Alternative)
+Automation	   Fully automated scripts.	   Manual clicking/macros.
+Data Size Handles millions of rows easily.Slows down with large files.
+Reproducibility	One click to repeat on new data.	Prone to human error in copy-paste.
+Cost	Free and Open Source.	Requires a paid license.
+
 🛠️ Key Features
 Step-by-Step Setup: Detailed instructions for local Python environments.
 
