@@ -1,0 +1,21 @@
+Order_ID,Book_Title,Price,Quantity,Date
+101,The Great Gatsby,15.99,1,2023-01-01
+102,the great gatsby,15.99,1,2023-01-01
+103,1984,,2,2023-01-02
+104,Moby Dick,25.00,1,2023-01-03
+105,Moby Dick,25.00,1,2023-01-03
+106,Ulysses,30.50,,2023-01-04
+107,The Hobbit,12.00,3,2023-01-05
+108, Brave New World ,18.50,1,2023-01-06
+109,1984,14.00,1,2023-01-07
+110,The Catcher in the Rye,10.50,2,2023-01-08
+111,the catcher in the rye,10.50,1,2023-01-08
+112,The Hobbit,12.00,1,2023-01-09
+113,Frankenstein,13.25,2,2023-01-10
+114,Frankenstein,13.25,2,2023-01-10
+115,Dracula,11.00,5,2023-01-11
+116,DRACULA,11.00,1,2023-01-11
+117,Pride and Prejudice,22.00,,2023-01-12
+118,The Odyssey,20.00,1,2023-01-13
+119,The Odyssey,20.00,1,2023-01-13
+120,War and Peace,35.00,1,2023-01-14
